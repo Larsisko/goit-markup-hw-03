@@ -174,7 +174,7 @@ footer {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  margin: 4px 0px 0px 0px;
+  margin: 0px 0px 4px 0px;
 }
 .adress-container {
   width: 247px;
@@ -355,6 +355,9 @@ footer {
   padding: 94px 0;
 }
 .work-list {
+}
+.filter-button-container {
+  margin-bottom: 50px;
 }
 .filters {
   display: flex;
